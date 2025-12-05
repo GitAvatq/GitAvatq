@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**GitAvatq/GitAvatq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 Who am I?
+I am a passionate developer aiming to grow into Big Tech. I love solving challenging problems and building projects that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What am I currently working on?
+I am currently working on improving my full-stack development skills, exploring modern JavaScript frameworks, and building personal projects to strengthen my portfolio.
+
+---
+
+### 🛠 Tools
+- **Languages & Styling:** JavaScript, TypeScript, HTML, CSS, Tailwind  
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express, Chakra UI, Shadcn  
+- **Databases:** PostgreSQL, Prisma  
+- **Other Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+### 📫 How to reach me
+- Telegram: [@XhonTo](https://t.me/XhonTo)  
+
+---
+
+### ⚡ Fun fact
+I treat every day like a last chance to level up my skills.
+I have a talent for getting lost… especially in familiar places.
