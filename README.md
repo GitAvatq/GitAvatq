@@ -13,9 +13,10 @@ I am currently working on improving my full-stack development skills, exploring 
 
 ### 🛠 Tools
 - **Languages & Styling:** JavaScript, TypeScript, HTML, CSS, Tailwind  
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express, Chakra UI, Shadcn  
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express, Chakra UI, Shadcn
+- **State Management / Data Fetching:** Redux, Zustand, MobX, TanStack Query, RTK Query
 - **Databases:** PostgreSQL, Prisma  
-- **Other Tools:** Git, GitHub, VS Code, Postman  
+- **Other Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
