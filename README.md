@@ -18,12 +18,7 @@ I am currently working on improving my full-stack development skills, exploring 
 - **Databases:** PostgreSQL, Prisma  
 - **Other Tools:** Git, GitHub, VS Code, Postman
 
----
-
-### 📫 How to reach me
-- Telegram: [@XhonTo](https://t.me/XhonTo)  
-
----
+---  
 
 ### ⚡ Fun fact
 I treat every day like a last chance to level up my skills.
