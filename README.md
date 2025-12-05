@@ -1,6 +1,5 @@
 ## Hi there 👋
 
----
 
 ### 🔭 Who am I?
 I am a passionate developer aiming to grow into Big Tech. I love solving challenging problems and building projects that make an impact.
