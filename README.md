@@ -7,7 +7,7 @@ I am a passionate developer aiming to grow into Big Tech. I love solving challen
 ---
 
 ### 🌱 What am I currently working on?
-I am currently working on improving my full-stack development skills, exploring modern JavaScript frameworks, and building personal projects to strengthen my portfolio.
+I am currently working on improving my full-stack development skills, exploring JavaScript internals, and building personal projects to strengthen my portfolio.
 
 ---
 
