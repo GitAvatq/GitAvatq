@@ -21,6 +21,4 @@ I am currently working on improving my full-stack development skills, exploring 
 ---  
 
 ### ⚡ Fun fact
-I treat every day like a last chance to level up my skills.
-
 I have a talent for getting lost… especially in familiar places.
